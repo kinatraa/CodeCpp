@@ -63,3 +63,5 @@ int main()
 	cin.tie(0);
 	solve();
 }
+
+//oat ta fak
